@@ -33,6 +33,7 @@ Preprocess images using OpenCV.
 
 Create training and validation datasets.
 
+
 Build and train a Convolutional Neural Network (CNN).
 
 Evaluate model performance.
